@@ -33,7 +33,7 @@
          It helps to ensure that we always use the same version number and makes it easier to look up the
          versions.
          -->
-    <log4j2-version>2.11.0</log4j2-version>
+    <log4j2-version>2.16.0</log4j2-version>
     <maven.compiler.target>1.8</maven.compiler.target>
     <maven.compiler.source>1.8</maven.compiler.source>
   </properties>
